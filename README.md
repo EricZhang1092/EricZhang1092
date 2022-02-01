@@ -1,4 +1,6 @@
-### Hi there 👋
+### 一些重要的或者不重要的东西保存库
+## Fork一些大佬的仓库学习
+## 从头学算法中，从noob开始学golang
 
 <!--
 **EricZhang1092/EricZhang1092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
